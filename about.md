@@ -1,15 +1,14 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: ¿Por qué ratones?
+permalink: /por-que-ratones/
 ---
 
-Some information about you!
 
-### More Information
+### Más info
 
-A place to include any other types of information that you'd like to include about yourself.
+Punto de encuentro para filosofar sobre la era digital
 
-### Contact me
+### Habla con nosotros
 
-[email@domain.com](mailto:email@domain.com)
+[cabezasderaton.com@gmail.com](mailto:cabezasderaton.com@gmail.com)
